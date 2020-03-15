@@ -1,5 +1,7 @@
 # mapalati
 
+![logo](https://github.com/sugradjani/mapalati/raw/master/img/sugradjani.jpg "Sugradjani Srbije Logo")
+
 Open source project with tools for sharing information between people who provide help and people who need it - built for need of Serbia in response to the covid-19.
 
 Although this is a project for supporting local Serbian people, are aware many other communities may need similar tools, so we opt-out for english language. 
