@@ -4,7 +4,9 @@ improvements immediately achievable within the framework of using google docs
   
   - automated sheet sync
   - street names in the shared sheet
-  - volunteer grading by the support receiver.
+  - automated remarker
+  - volunteer grading by the support receiver
+  - tool that will scan the facebook group feed and extract the information to create map tags
   - **TODO: provide more here !!!**
   
 ## 1. automated sheet sync 
