@@ -31,6 +31,8 @@ Contra:
 
 The folder **quick-way** in the repo root folder contains the scripts that help maintain this implementation.
 
+Read more about the quick-way [here](./quick-way/README.md).
+
 ## better ways to do it
 
 There are many better ways to do it. Below we discuss the options:
@@ -45,25 +47,7 @@ long term improvements
 
 ### improvements immediately achievable within the framework of using google docs
 
-- automated sheet sync 
-- street names in the shared sheet
-- volunteer grading by the support receiver. 
-- **TODO: provide more here !!!**
-
-#### automated sheet sync 
-
-The advantage is that the map always stay up to date without requiring manual involvement. 
-for now, we have the script that does part of the work see **quick-way/kmz2csv.sh**
-there shall be a service that synchronizes the google sheet document from the map.
-
-
-#### street names in the shared sheet
-
-The coordinates in the sheet are not so human readable. they should be street names instead. 
-
-#### volunteer grading by the support receiver
-
-It provides people who have already provided help with **karma points** so they are considered more reliable to provide more help and in case they will need help, people will have additional motivation to help someone who has already helped. 
+This is where your help is most welcome. Checkout the [wishlist](./quick-way/WISHLIST.md)
 
 ### improvements immediately achievable by using other publicly available infrastructure
 
