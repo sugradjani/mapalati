@@ -7,6 +7,7 @@ improvements immediately achievable within the framework of using google docs
   - automated remarker
   - volunteer grading by the support receiver
   - tool that will scan the facebook group feed and extract the information to create map tags
+  - auto-remove any layers that are not one of the two predefined layers
   - **TODO: provide more here !!!**
   
 ## 1. automated sheet sync 
@@ -45,5 +46,10 @@ To ease for people to post their help and needs, we define the following hashtag
 
 any post containing those hash tags will craete a new volunteer and register it's tag at the center of that zip code.
 
+
+## 6. auto-remove any layers that are not one of the two predefined layers
+
+In order to automate to some extent the handling of invalid posts, write a service that automatically removes any layers that are not one of the two predefined.
+The layer contents will be saved in a separate document for administrators review and removed from the map file.
 
 [back](./README.md) to quick-way README.md
